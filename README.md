@@ -1,2 +1,2 @@
-# Mine
+ Mine
 Btc
